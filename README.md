@@ -218,7 +218,7 @@ templates/test-plan-template.md
 templates/bug-report-template.md
 ```
 
-### Root Cause Analysis Process
+### Root Cause Analysis Template
 
 ```text
 templates/rca-template.md
