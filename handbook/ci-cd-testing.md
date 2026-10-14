@@ -1,27 +1,32 @@
 # CI/CD Testing
 
-## Pipeline Stages
+## Pipeline
 
-### Build
+Source Control
 
-Compile and package.
+↓
+Build
 
-### Unit Tests
+↓
+Unit Tests
 
-Execute automated unit tests.
+↓
+API Tests
 
-### API Tests
+↓
+UI Tests
 
-Execute service validation.
+↓
+Security Tests
 
-### UI Tests
+↓
+Deployment
 
-Execute end-to-end automation.
+---
 
-### Security
+## Quality Gates
 
-Static analysis and vulnerability scanning.
-
-### Deployment
-
-Release to target environment.
+- Build success
+- Test pass rate
+- Security validation
+- Production approval

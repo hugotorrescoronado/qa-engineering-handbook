@@ -4,32 +4,44 @@
 
 API tests execute faster than UI tests and isolate backend functionality.
 
+---
+
 ## Validation Areas
 
-- Status Codes
-- Response Body
-- Headers
-- Schema Validation
-- Authentication
-- Authorization
+### Status Codes
 
-## Tools
+200
+201
+400
+401
+403
+404
+500
 
-- Postman
-- Playwright
-- REST Assured
+### Response Validation
 
-## Example Strategy
+- Schema
+- Fields
+- Values
 
-Smoke Tests
+### Authentication
 
-- GET requests
+- OAuth
+- JWT
+- API Keys
 
-Regression
+---
 
-- Full endpoint coverage
+## Test Types
 
-Security
+### Smoke
 
-- Authentication
-- Authorization
+Critical endpoint validation.
+
+### Regression
+
+Full endpoint coverage.
+
+### Security
+
+Authentication and authorization validation.

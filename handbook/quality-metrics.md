@@ -2,24 +2,45 @@
 
 ## Defect Density
 
-Defects per feature or story.
+Defects per story, feature, or release.
+
+---
 
 ## Escaped Defects
 
 Defects found in production.
 
+---
+
 ## Automation Coverage
 
-Percentage of tests automated.
+Automated tests divided by total tests.
+
+---
 
 ## Pass Rate
 
 Passed Tests / Executed Tests
 
-## Mean Time To Detect
+---
 
-Time required to identify failures.
+## MTTD
 
-## Mean Time To Resolve
+Mean Time To Detect
 
-Time required to resolve issues.
+---
+
+## MTTR
+
+Mean Time To Resolve
+
+---
+
+## Example Dashboard
+
+| Metric | Goal |
+|----------|----------|
+| Pass Rate | >95% |
+| Escaped Defects | <2 |
+| Automation Coverage | >80% |
+| MTTR | <24h |
