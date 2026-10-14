@@ -74,31 +74,31 @@ https://hugotorrescoronado.github.io/qa-engineering-handbook/
 
 ### Test Strategy
 
-![Test Strategy](../diagrams/test-strategy-flow.png)
+![Test Strategy](/diagrams/test-strategy-flow.png)
 
 ---
 
 ### Test Automation Pyramid
 
-![Test Automation Pyramid](../diagrams/test-pyramid.png)
+![Test Automation Pyramid](/diagrams/test-pyramid.png)
 
 ---
 
 ### API Testing Lifecycle
 
-![API Testing Lifecycle](../diagrams/api-testing-lifecycle.png)
+![API Testing Lifecycle](/diagrams/api-testing-lifecycle.png)
 
 ---
 
 ### Quality Metrics Dashboard
 
-![Quality Dashboard Example](../diagrams/quality-metrics-dashboard.png)
+![Quality Dashboard Example](/diagrams/quality-metrics-dashboard.png)
 
 ---
 
 ### CI/CD Testing Pipeline
 
-![CI/CD Testing Pipeline](../diagrams/ci-cd-testing-pipeline.png)
+![CI/CD Testing Pipeline](/diagrams/ci-cd-testing-pipeline.png)
 
 ---
 
