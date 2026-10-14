@@ -8,8 +8,10 @@ A Test Strategy defines the overall quality approach for a software project.
 
 - Verify business requirements
 - Prevent production defects
+- Reduce delivery risk
 - Improve release quality
-- Reduce operational risk
+
+---
 
 ## Test Levels
 
@@ -23,22 +25,29 @@ Validates interactions between components.
 
 ### System Testing
 
-Validates complete end-to-end workflows.
+Validates end-to-end workflows.
 
 ### User Acceptance Testing
 
 Validates business requirements.
 
+---
+
 ## Risk-Based Testing
 
-Prioritize testing effort based on:
+Examples:
 
-- Business impact
-- Customer visibility
-- Failure probability
+| Risk | Priority |
+|--------|--------|
+| Payment Processing | High |
+| Authentication | High |
+| User Preferences | Medium |
+| Reporting Dashboard | Low |
+
+---
 
 ## Exit Criteria
 
 - All critical defects resolved
 - Test execution completed
-- Acceptance criteria met
+- Business acceptance achieved
