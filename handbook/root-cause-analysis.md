@@ -1,18 +1,18 @@
 # Root Cause Analysis
 
-## Goal
+## Purpose
 
-Identify the origin of failures and prevent recurrence.
+Identify why a defect or incident occurred.
+
+---
 
 ## Five Whys
 
-Ask "Why?" repeatedly until the root cause is identified.
-
-## Example
+Example:
 
 Problem:
 
-Production outage.
+Application unavailable.
 
 Why?
 
@@ -26,6 +26,22 @@ Why?
 
 Log rotation failed.
 
+Why?
+
+Monitoring missing.
+
 Root Cause:
 
 Monitoring gap.
+
+---
+
+## Corrective Actions
+
+Fix current issue.
+
+---
+
+## Preventive Actions
+
+Prevent recurrence.
