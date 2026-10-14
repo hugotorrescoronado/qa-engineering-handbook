@@ -1,4 +1,4 @@
-# QA Engineering Handbook 
+# QA Engineering Handbook
 
 Comprehensive QA Engineering, Test Automation, SDET,
 and Quality Engineering handbook covering:
