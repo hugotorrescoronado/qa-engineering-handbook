@@ -156,28 +156,28 @@ Continuous Improvement
 
 ## Topics Covered
 
-### Test Strategy
+### Test Strategy overview
 
 - Risk-Based Testing
 - Test Levels
 - Exit Criteria
 - Quality Objectives
 
-### Test Automation
+### Test Automation Architecture
 
 - Automation Pyramid
 - Framework Architecture
 - Test Design Patterns
 - Best Practices
 
-### API Testing
+### API Testing Practices
 
 - Authentication
 - Authorization
 - Schema Validation
 - Regression Testing
 
-### Quality Metrics
+### Quality Metrics Framework
 
 - Defect Density
 - Escaped Defects
@@ -186,14 +186,14 @@ Continuous Improvement
 - MTTD
 - MTTR
 
-### Root Cause Analysis
+### Root Cause Analysis Process
 
 - Five Whys
 - Incident Analysis
 - Corrective Actions
 - Preventive Actions
 
-### CI/CD Testing
+### CI/CD Testing Strategy
 
 - Quality Gates
 - Pipeline Testing
@@ -218,7 +218,7 @@ templates/test-plan-template.md
 templates/bug-report-template.md
 ```
 
-### Root Cause Analysis
+### Root Cause Analysis Process
 
 ```text
 templates/rca-template.md
